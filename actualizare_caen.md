@@ -1,6 +1,6 @@
 
 Firma Sonjaline trebuie să permită facturare pentru:
-* sesiuni psiho-terapie
+* sesiuni psiho-terapie și activități conexe (în principal - 8693)
 * cursuri de dezvoltare personală 
     * la cursuri pot fi și traineri/psihoterapeuți/artiști/profesori/îndrumător invitați ca facilitatori pentru cursanți (ei vor fi plătiți de cursanți)
 * retreats (muti-day retreats with trainers/coaches) for clients

@@ -1,127 +1,81 @@
-# Sonjaline SRL – Actualizare coduri CAEN (CAEN Rev.3)
-*Document de continuitate / handover*
+# Actualizare coduri CAEN – Document de continuitate / Handover
 
-## Context
-Obiectiv: actualizarea obiectului de activitate al **Sonjaline SRL** conform **CAEN Rev.3 (ONRC)** astfel încât firma să poată:
-- factura servicii de **psihoterapie / sănătate mintală**
-- presta **servicii software, consultanță IT, creare produse digitale și aplicații**
-- crea, opera și vinde **platforme / aplicații web** (inclusiv SaaS B2B)
-- organiza și vinde **cursuri de dezvoltare personală** (inclusiv online)
-- vinde **produse fizice**: carduri proiective, jocuri pe carduri, booklet-uri, eșarfe, tablouri
-- vinde aceste servicii/produse **online** prin portal propriu
-- oferi platforma web și **altor firme, contra-cost**
-
-Surse:
-- https://www.onrc.ro/index.php/ro/caen
-- https://www.onrc.ro/documente/anunturi/CAEN-Rev.3_structura-completa.pdf
+*Ultima actualizare: 31 ianuarie 2026*
 
 ---
 
-## Coduri CAEN Rev.3 – propuse
+## Progres general
 
-### 1. Sănătate mintală / psihoterapie
-- **8693** – Activități ale psihologilor și psihoterapeuților, cu excepția medicilor  
-  ⚠️ Activitate posibil „sub condiție” (autorizații / formă de exercitare).
-
----
-
-### 2. Software, IT, produse digitale, SaaS
-- **6210** – Activități de realizare a soft-ului la comandă (software orientat client)
-- **6220** – Activități de consultanță în tehnologia informației
-- **6290** – Alte activități de servicii privind tehnologia informației
-- **5829** – Activități de editare a altor produse software (opțional, pentru software propriu licențiat)
-
-Acoperă:
-- dezvoltare aplicații
-- servicii digitale
-- consultanță
-- vânzare aplicații / servicii online către alte firme
+| Firmă | Coduri CAEN | Analiză fiscală | Avize | Template documente | Fișier detaliat |
+|-------|:-----------:|:---------------:|:-----:|:------------------:|:---------------:|
+| **Sonjaline SRL** | ✅ | ✅ | ✅ | ✅ | `sonjaline/analiza_CAEN_Rev3_Sonjaline.md` |
+| **Inner Shapes Institute SRL** | ⬜ | ⬜ | ⬜ | ⬜ | – |
 
 ---
 
-### 3. Portal / aplicație web / platformă online
-- **6310** – Prelucrarea datelor, administrarea paginilor web și activități conexe
-- **6391** – Activități ale portalurilor web
+## Sonjaline SRL – Rezumat
 
-Note:
-- CAEN Rev.3 **nu mai tratează “comerț online” ca activitate distinctă**, ci prin:
-  - tipul serviciului (IT / portal)
-  - tipul bunului vândut (retail specific)
+**Analiza completă** se găsește în: [`sonjaline/analiza_CAEN_Rev3_Sonjaline.md`](sonjaline/analiza_CAEN_Rev3_Sonjaline.md)
 
----
+### Activitate principală (confirmat de asociați)
+**8693** – Activități ale psihologilor și psihoterapeuților, cu excepția medicilor
+- Domeniu principal: 869 – Alte activități referitoare la sănătatea umană
+- Schimbă actuala 1330 (Finisarea materialelor textile)
+- 8693 **NU** e pe lista codurilor cu impozit micro 3% obligatoriu
 
-### 4. Educație / dezvoltare personală
-- **8559** – Alte forme de învățământ n.c.a. (cursuri non-formale, dezvoltare personală)
-- **8561** – Activități de intermediere pentru cursuri și tutori (opțional)
+### Set complet coduri secundare (15 coduri)
+- IT/Software: **6210, 6220, 6290, 5829**
+- Web/Portal: **6310, 6391**
+- Educație: **8559, 8561**
+- Comerț: **4764, 4761, 4771, 4769**
+- Creație: **9012**
+- Fabricare: **3240**
+- Consultanță: **7022**
 
----
+### Constatări fiscale cheie
+- **2025:** firma va plăti 3% impozit micro pe toate veniturile (din cauza codurilor IT 6210/6290/5829)
+- **2026:** cota revine la **1% unic** (cota de 3% eliminată), plafon micro scade la 100.000 EUR
+- **2026:** asociații cu >25% în mai multe firme – regim micro doar la o singură firmă
+- **Recomandare:** consultare contabil pentru optimizarea între Sonjaline și ISI
 
-### 5. Produse fizice – carduri, jocuri, booklet
-- **4764** – Comerț cu amănuntul al jocurilor și jucăriilor
-- **4761** – Comerț cu amănuntul al cărților (dacă booklet-ul e produs distinct)
-- **3240** – Fabricarea jocurilor și jucăriilor (doar dacă există producție proprie)
+### Avize necesare
+- **8693 (psihoterapie):** Autorizație DSP + Structură Psihologie COPSI + atestare liberă practică → **complex**
+- Toate celelalte coduri: **fără avize speciale**
 
----
+### Documente create
+- Template Hotărâre AGA
+- Text actualizat Art. 5 Act Constitutiv
+- Checklist documente ONRC
 
-### 6. Produse fizice – eșarfe, tablouri
-- **4771** – Comerț cu amănuntul al îmbrăcămintei (eșarfe)
-- **9012** – Activități de creație în domeniul artelor vizuale (dacă tablourile sunt creație proprie)
-- alternativ:
-  - **4778 / 4769** – Comerț cu amănuntul al altor bunuri / artă (dacă este revânzare)
-
----
-
-## Comerț online – clarificare importantă
-- Vechiul **4791 (CAEN Rev.2 – e-commerce)**:
-  - **NU** mai există ca „magazin online generic”
-  - este redistribuit în CAEN Rev.3 **în funcție de tipul produsului**
-- **4791 / 4792 Rev.3** = *intermediere / marketplace*, nu magazin propriu
-- Pentru magazin online propriu → **cod CAEN pe produs**, nu pe canalul online
-
----
-
-## Conversii relevante Rev.2 → Rev.3 (din actul constitutiv vechi)
-- 6201 → **6210**
-- 6202 → **6220**
-- 6209 → **6290**
-- 6311 → **6310**
-- 6312 → **6391**
-- 8559 → **8559**
-- 3240 → **3240**
-- 4765 → **4764**
-- 4771 → **4771**
-- 9003 → **9012 / 9013**
-- 4791 (e-commerce) → retail pe tip de produs (4764, 4771 etc.)
+### Decizii în așteptare
+1. ~~Confirmare activitate principală~~ → **CONFIRMAT: 8693 (psihoterapie)**
+2. ⬜ Consultare contabil pentru regula asociat multiplu 2026
+3. ⬜ Obținere avize pentru activitate 8693 (DSP + COPSI)
 
 ---
 
-## Activitatea principală – problemă deschisă
-În actul constitutiv actual:
-- Activitate principală: **1330 – Finisarea materialelor textile**
+## Inner Shapes Institute SRL – De făcut
 
-Dacă aceasta **nu mai reflectă realitatea**, este necesară:
-- schimbarea **activității principale**
-- decizie AGA
-- actualizare act constitutiv
-- depunere la ONRC
+### Situația curentă
+- **CAEN principal (Rev.2):** 8559 – Alte forme de învățământ
+- **Coduri secundare (Rev.2):** 4789, 4791, 4799, 5821, 5829, 6201, 6202, 6203, 6209, 6311, 6312, 6399, 7021, 7022, 7490, 8690, 8560, 9609
 
-⚠️ Conversia CAEN ≠ schimbare activitate principală.
-
----
-
-## Set minim recomandat (acoperă toate cerințele)
-- **8693** – psihoterapie
-- **6210, 6220, 6290** – software & IT
-- **6310, 6391** – platformă / portal web
-- **8559** – cursuri dezvoltare personală
-- **4764, 4771** – jocuri/carduri + eșarfe
-- **9012** *sau* **4778/4769** – tablouri (creație vs revânzare)
+### Pași necesari
+1. ⬜ Conversie coduri Rev.2 → Rev.3
+2. ⬜ Verificare dacă 8559 rămâne activitate principală
+3. ⬜ Analiză fiscală specifică ISI
+4. ⬜ Identificare avize (8690 → posibil 8693 + alte sub-coduri sănătate)
+5. ⬜ Template documente (Hotărâre AGA, Act Constitutiv actualizat)
+6. ⬜ Decizie: 8693 la ISI sau Sonjaline?
 
 ---
 
-## Next steps (pentru agentul următor)
-1. Verificare exactă **activitate principală dorită**
-2. Decizie dacă **8693** se include (implicații legale)
-3. Redactare **obiect de activitate consolidat** (text ONRC)
-4. Pregătire **hotărâre AGA + act constitutiv actualizat**
-5. Depunere ONRC (actualizare CAEN Rev.3)
+## Surse principale
+
+- [ONRC – CAEN Rev.3](https://www.onrc.ro/index.php/ro/caen)
+- [ONRC – Conversie Rev.2 → Rev.3](https://www.onrc.ro/index.php/ro/conversie-caen-rev-2-caen-rev-3)
+- [ONRC – Activități sub condiție](https://www.onrc.ro/index.php/ro/activitati-desfasurate-sub-conditie)
+- [Regimul micro 2025-2026 – socotim.ro](https://socotim.ro/2025/04/15/regimul-de-impozitare-al-microintreprinderilor-2025-2026/)
+- [Regimul micro 2026 – socotim.ro](https://socotim.ro/2025/10/09/regimul-de-impozitare-al-microintreprinderilor-2026/)
+- [Coduri CAEN cu 3% – universulfiscal.ro](https://universulfiscal.ro/subiect/coduri-caen-cu-impozit-micro-3-fara-plafon-2025/)
+- [COPSI – Colegiul Psihologilor](https://www.copsi.ro)
