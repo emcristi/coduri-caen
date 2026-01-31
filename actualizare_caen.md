@@ -1,5 +1,5 @@
 
-Firma trebuie să permită facturare pentru:
+Firma Sonjaline trebuie să permită facturare pentru:
 * sesiuni psiho-terapie
 * cursuri de dezvoltare personală 
     * la cursuri pot fi și traineri/psihoterapeuți/artiști/profesori/îndrumător invitați ca facilitatori pentru cursanți (ei vor fi plătiți de cursanți)
@@ -27,9 +27,12 @@ CAEN principal trebuie să permită facture pentru
 
 INstructions:
 
+* there are 2 companies Inner Shapes Institute and Sonjaline (each in it's folder containing actul constitutiv)
+    * all documents and results should be saved for each company in it's folder
 * Citește următoarele documente cu ultima actualizare a codurilor CAEN (caută și alte informații relevante legate de asta)
   * https://www.onrc.ro/index.php/ro/caen
   * https://www.onrc.ro/documente/anunturi/CAEN-Rev.3_structura-completa.pdf
+
 * ajută-mă să reactualizez codurile CAEN pentru Sonjaline SRL, act constitutiv existent este în directorul curent
 * oferă-mi recomandări legate de optimizarea taxării pentru serviciile de mai sus în concordanță cu legislația actuală (ianuarie 2026)
     * există categorii (chiar dacă mai restrictive) înrudite care sunt taxabile mai puțin? 
